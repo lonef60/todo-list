@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,GACE,iBAAkB,CAClB,QAAS,CACT,MAAO,CACP,UAAW,CACX,iBACF","file":"main.e638b846.chunk.css","sourcesContent":["h6 {\n  position: absolute; \n  bottom: 0; \n  left: 0; \n  width: 100%; \n  text-align: center;\n}"]}
